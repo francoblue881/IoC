@@ -1,0 +1,6 @@
+C:\Users\francisco.cordovafgk\source\repos\Ioc\DLL\bin\Debug\DLL.dll
+C:\Users\francisco.cordovafgk\source\repos\Ioc\DLL\bin\Debug\DLL.pdb
+C:\Users\francisco.cordovafgk\source\repos\Ioc\DLL\obj\Debug\DLL.csprojAssemblyReference.cache
+C:\Users\francisco.cordovafgk\source\repos\Ioc\DLL\obj\Debug\DLL.csproj.CoreCompileInputs.cache
+C:\Users\francisco.cordovafgk\source\repos\Ioc\DLL\obj\Debug\DLL.dll
+C:\Users\francisco.cordovafgk\source\repos\Ioc\DLL\obj\Debug\DLL.pdb
